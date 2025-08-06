@@ -1,4 +1,23 @@
-body {
+body{
     text-align: center;
-    background-color: red;
+    background-color: rgb(189, 255, 146);
+}
+
+h1{
+    color: black;
+    font-size: 50px;
+}
+h2{
+    color: black;
+    font-size: 25px;
+}
+
+a {
+    color: blue;
+    font-size: 40px;
+}
+
+p {
+    color: black;
+    font-size: 25px;
 }
